@@ -1,0 +1,194 @@
+
+.header{
+    width: 100%;
+    height: 85px;
+    background: #3b5998;
+}
+body{
+    margin: 0px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    width: 50%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    float: left;
+    font-size: 12.8px;
+    
+    
+}
+.logo-text{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 180px;
+}
+.login label{
+    color: #fff;
+    
+}
+.login-controls{
+    margin-left: 120px;
+    text-decoration: none;
+}
+.forgotten{
+    text-decoration: none;
+    color: #9cb4db;
+}
+.login-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+} 
+.login-btn:hover{
+    background: #8995E3;
+}
+.left-sec{
+    width: 38%;
+    padding-top: 25px;
+    padding-left: 100px;
+    float: left;
+}
+.right-sec{
+    width: 40%;
+    float: left;
+    padding-top: 25px;
+}
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 550px;
+
+
+}
+.image{
+    width: 600px;
+}
+.para{
+    font-weight: bold;
+    font-size: 22px;
+}
+.right-sec{
+    padding-left: 100px;
+    float: right;
+    padding-bottom: 90px;
+}
+
+
+.right-body{
+    position: absolute;
+    left: 57%;
+    padding-top: 20px;
+}
+.right-body .login-text{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 25px 0;
+    line-height: 5px;
+}
+.parag{
+    font-weight: bold;
+    line-height: 35px;
+    color: #333539;
+}
+.sign-up{
+    line-height: 39px;
+}
+.box{
+    border-style: solid;
+    height: 26px;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+    font-size: 16px;
+}
+.surname{
+    border-style: solid;
+    height: 26px;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.address{
+    border-style: solid;
+    height: 27px;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+    font-size: 16px;
+    width: 410px;
+    line-height: 49px;    
+}
+.name{
+    padding-left: 0px;
+    margin: 0px;
+    line-height: 49px;
+}
+.password{
+    border-style: solid;
+    height: 27px;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+    font-size: 16px;
+    width: 410px; 
+    margin-top: 9px;
+}
+.birthday-text{
+    font-weight: bold;
+    color: #6D6E71;
+}
+.day{
+    position: absolute;
+    margin-top: -14px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+}
+.month{
+    margin-left: 50px;
+    margin-top: -14px;
+    position: absolute;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+}
+.year{
+    margin-left: 114px;
+    margin-top: -14px;
+    position: absolute;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #A0A2AE #A0A2AE #A0A2AE #A0A2AE;
+}
+.gender-text{
+    margin-top: -4px;
+    position: absolute;
+    font-weight: bold;
+    color: #6D6E71;
+}
+.gender{
+    position: absolute;
+    margin-top: 45px;
+    font-weight: bold;
+    color: #333539;
+}
+.sign-btn{
+    position: absolute;
+    margin-top: 110px;
+    cursor: pointer;
+    width: 170px;
+    height: 51px;
+    font-size: 22px;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #66ff33 0%, #00cc00 100%);
+    border-radius: 7px;
+    color: #fff;
+}
